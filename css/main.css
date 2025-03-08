@@ -107,7 +107,7 @@ footer p b{font-weight: 600;}
   }
   
   .sec02 .right h2 span {
-    background: linear-gradient(to right, #FFE300 100%, transparent 0%);
+    background: linear-gradient(to right, #FFcc00 100%, transparent 0%);
     background-size: 0% 100%;
     background-repeat: no-repeat;
     background-position: left bottom;
