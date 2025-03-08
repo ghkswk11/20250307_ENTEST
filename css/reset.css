@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+.inner{width: 1465px; margin: 0 auto; max-width: 90%;}
+.br_n{display: none;}
+
+html,body{height:100%;}
+body {
+    -webkit-text-size-adjust: none;
+	max-width: 2560px;
+    min-width: 320px;
+    width: 100%;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+blockquote,
+button,
+mark,
+textarea,
+select,
+em,
+strong,
+p,
+header,
+section,
+article,
+footer,
+hgroup,
+aside,
+nav,
+figure,
+address,
+a {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family:'Pretendard', sans-serif;
+    font-weight:300;
+    font-style: normal;
+    color: #1c1d1c;
+    letter-spacing: -0.025em;
+    line-height: 1;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    word-break: keep-all;
+}
+a{text-decoration: none;}
+span{display: inline-block;}
+ul{padding: 0;margin: 0;}
+li{list-style: none; margin: 0; padding: 0;}
+img{display: block;}
+
+  
